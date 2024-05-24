@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Preet Godhani - Business Analyst</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Preet Godhani</h1>
+        <p>Data-Driven Business Analyst</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#resume">Resume</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#tableau">Tableau Insights</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am Preet Godhani, a Business Analyst with a strong background in data analysis, business intelligence, and process improvement. I have experience working with tools like Tableau, SQL, and Python to develop automated reporting solutions and enhance data accuracy. My internships at Wetechforu and Destined for Greatness Outreach Youth Center have equipped me with the skills to support data-driven decision-making and deliver customized BI solutions.</p>
+        <h3>Education</h3>
+        <p>Bachelor of Science in Information and Decision Sciences; Concentration in Business Analytics<br>University of Illinois, Chicago (Jan 2021 - May 2024)</p>
+        <h3>Skills</h3>
+        <ul>
+            <li>Python</li>
+            <li>SQL</li>
+            <li>Tableau & Power BI</li>
+            <li>MS Office (Excel, Outlook, Word, PowerPoint, SharePoint)</li>
+            <li>MS Project</li>
+            <li>Advanced Excel (Pivot Tables, Power Query)</li>
+            <li>Microsoft BI Stack</li>
+            <li>Redshift</li>
+            <li>Version Control (Git)</li>
+            <li>Jira</li>
+            <li>Asana</li>
+            <li>Team Collaboration</li>
+        </ul>
+    </section>
+    <section id="resume">
+        <h2>Resume</h2>
+        <h3>Employment History</h3>
+        <h4>Business Analyst Intern, Wetechforu, Dallas</h4>
+        <p>Jan 2023 - Aug 2023</p>
+        <ul>
+            <li>Conducted detailed data analysis to identify trends, patterns, and insights, supporting data-driven decision-making.</li>
+            <li>Developed and automated reports and dashboards using Power BI, reducing manual reporting efforts.</li>
+            <li>Implemented ETL processes to integrate data from multiple sources, ensuring data integrity and accuracy.</li>
+            <li>Worked closely with cross-functional teams to gather requirements and deliver customized BI solutions.</li>
+            <li>Trained and supported end-users in utilizing BI tools and understanding the reports and dashboards created.</li>
+            <li>Refined data cleansing methods to ensure 98% data accuracy for analytics.</li>
+        </ul>
+        <h4>BI Intern, Destined for Greatness Outreach Youth Center, Atlanta</h4>
+        <p>Apr 2022 - Jul 2022</p>
+        <ul>
+            <li>Steered non-profit operations, focusing on enhancing employee and volunteer participation.</li>
+            <li>Successfully acquired a $5,000 Google Ad Grant, amplifying the organization's digital presence.</li>
+            <li>Analyzed business processes and performance metrics to identify trends, patterns, and opportunities for improvement.</li>
+            <li>Created detailed reports and presentations to communicate findings and recommendations to senior management.</li>
+            <li>Utilized advanced Excel functions, including pivot tables, VLOOKUP, and macros, to automate data analysis and reporting.</li>
+            <li>Conducted root cause analysis and developed action plans to address operational issues and improve performance.</li>
+        </ul>
+        <h4>Members Services Coordinator, University of Illinois Chicago, Chicago</h4>
+        <p>Jan 2021 - Dec 2021</p>
+        <ul>
+            <li>Delivered outstanding service by greeting and assisting all members with check-in and general inquiries, enhancing member satisfaction and retention.</li>
+            <li>Efficiently managed front desk operations including handling of a multi-line phone system, member sign-ups, and tour scheduling.</li>
+            <li>Processed transactions with accuracy using Point of Sale systems, handling cash, and ensuring balanced financial records at the end of each shift.</li>
+            <li>Actively promoted UIC Recreation programs and membership renewals, contributing to a 15% increase in member engagement through targeted outreach initiatives.</li>
+        </ul>
+    </section>
+    <section id="projects">
+        <h2>Projects</h2>
+        <h3>Southwest Airlines Data Analysis (Tableau)</h3>
+        <ul>
+            <li>Analyzed 3.7 million flight records, identifying 16.77% of total flight delays among 11 airlines for FY 2020.</li>
+            <li>Recorded 16.77% of total Southwest Airlines flight delays amongst 11 other airlines and visualized the trends using measures, dual-axis maps, and route maps.</li>
+            <li>Created over 20 Tableau dashboards with 60 features for a comprehensive comparative airline performance analysis.</li>
+        </ul>
+    </section>
+    <section id="tableau">
+        <h2>Tableau Insights</h2>
+        <div class="tableau-report">
+            <h3>Southwest Airlines Delays Analysis</h3>
+            <p>Analyzed flight records and visualized trends to identify and compare delays across different airlines.</p>
+            <a href="https://public.tableau.com/app/profile/preet.godhani/viz/SouthwestAirlinesDelaysAnalysis" target="_blank">
+                <img src="https://public.tableau.com/static/images/SW/SouthwestAirlinesDelaysAnalysis/Dashboard/1.png" alt="Southwest Airlines Delays Analysis">
+            </a>
+        </div>
+        <div class="tableau-report">
+            <h3>Airline Performance Dashboard</h3>
+            <p>Created comprehensive dashboards to compare performance metrics of multiple airlines.</p>
+            <a href="https://public.tableau.com/app/profile/preet.godhani/viz/AirlinePerformanceDashboard" target="_blank">
+                <img src="https://public.tableau.com/static/images/AP/AirlinePerformanceDashboard/Dashboard/1.png" alt="Airline Performance Dashboard">
+            </a>
+        </div>
+        <!-- Add more reports as needed -->
+    </section>
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: <a href="mailto:preetgodhani1@gmail.com">preetgodhani1@gmail.com</a></p>
+        <p>Phone: <a href="tel:+1-312-459-0831">+1-312-459-0831</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/preet-godhani-/" target="_blank">Preet Godhani</a></p>
+        <p>Tableau: <a href="https://public.tableau.com/app/profile/preet.godhani/vizzes" target="_blank">Preet Godhani's Tableau Profile</a></p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Preet Godhani. All rights reserved.</p>
+    </footer>
+</body>
+</html>
